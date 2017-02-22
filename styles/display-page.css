@@ -6,14 +6,15 @@ Main {
 	margin-top: 90px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 800px;}
+	width: 800px;
+}
 
 .box {
 	border: 1px solid black;
 	display: inline-block;
 }
 
-.box-half {
+.box_half {
 	width: 50%;
 	height: 200px;
 }

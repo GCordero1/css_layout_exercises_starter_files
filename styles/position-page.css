@@ -5,7 +5,7 @@
 
 nav {
 	height: 60px;
-	background-color: grey
+	background-color: grey;
 	position: fixed;
 	width: 100%;
 }
@@ -52,7 +52,7 @@ main {
 	width: 600px;
 	height: 300px;
 	position: relative;
-	border: 10px dotten green;
+	border: 10px dotted green;
 	margin-left: auto;
 	margin-right: auto;
 }

@@ -9,11 +9,11 @@ Main {font-size: 0;}
 .box {
 	border: 1px solid black;
 	display: inline-block;
-	}
+}
 
 .box-half {
 	width: 50%;
-	height:200px;
+	height: 200px;
 }
 
 .box_third {

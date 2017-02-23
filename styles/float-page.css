@@ -15,17 +15,17 @@ main {
 	width: 300px
 }
 
-.nebula1, .nebula2 {
+.left, .right {
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
 
-.nebula1 {
+.left {
 	float: left;
 	margin-right: 15px
 }
 
-.nebula2 {
+.right {
 	float: right;
 	margin-left: 15px
 }

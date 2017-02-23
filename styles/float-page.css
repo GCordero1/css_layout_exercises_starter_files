@@ -13,10 +13,12 @@ main {
 
 .nebula1 {
 	float: left;
+	size: 50%
 	margin-right: 10px
 }
 
 .nebula2 {
 	float: right;
+	size: 50%
 	margin-left: 10px
 }
